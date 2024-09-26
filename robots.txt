@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://webzy-pi.vercel.app/web/sitemap.web.gz
