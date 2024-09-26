@@ -55,7 +55,7 @@ staticPrefix = "https://cdn.jsdelivr.net/gh/joway/blog"
 lazyImage = true
 
 [[params.author]]
-homepage = "https://joway.io/"
+homepage = "https://webzy-pi.vercel.app/"
 name = "Joway"
 
 # [[params.socials]]
