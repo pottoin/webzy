@@ -1,5 +1,5 @@
 DefaultContentLanguage = "cn"
-baseURL = "https://blog.joway.io/"
+baseURL = "https://webzy-pi.vercel.app/"
 canonifyURLs = false
 enableRobotsTXT = true
 languageCode = "en-us"
